@@ -33,5 +33,5 @@
   The html and css codes resources are available in the templates folder.
   
   ##### [Ongoing]
-  Incorporating the static files to the html files.
-  ![landing_page](https://user-images.githubusercontent.com/80576186/200273872-158349a5-5278-4733-b659-8f580b1a6425.png)
+  Incorporating the static files (css) to the html files.
+
