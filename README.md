@@ -23,7 +23,8 @@
   ### Relation to the project
   The platform will have candidates, who have undergone through PLP training scholarships and showcased their skills by completing projects.
   The candidates profiles will be displayed to potential employers, which will ease the recruitment process
-  The client/hiring firm should create an account after which they will ...(to be updated)
+  The client/hiring firm should create an account after which they will have the candidates profiles and technology they specialise in...(to be updated)
+  ![software_services](/mypent/penthouse/screenshots/services.png "software_services")
   
   #### [Contribution]
   This project is based on django framework and anyone can contribute to the project.
